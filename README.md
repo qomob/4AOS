@@ -2,7 +2,7 @@
 
 > **From Brief to Business Impact** — 4A 全案智能体工作流。19 个 Agent 文件（含 5 条件子模块）协作，覆盖广告传播全业务周期。从 v4.0 起升级为 **Context-Aware Self-Evolving Marketing Decision OS**。
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE) [![Version](https://img.shields.io/badge/Version-v4.4.1-green.svg)](./CHANGELOG.md) [![Health](https://img.shields.io/badge/Health_Check-20%2F20-brightgreen.svg)](./evals/health_report.json)
+[![Author: qomob.ai](https://img.shields.io/badge/Author-qomob.ai-blue)](https://qomob.ai)[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE) [![Version](https://img.shields.io/badge/Version-v4.4.1-green.svg)](./CHANGELOG.md) [![Health](https://img.shields.io/badge/Health_Check-20%2F20-brightgreen.svg)](./evals/health_report.json)
 
 ---
 
