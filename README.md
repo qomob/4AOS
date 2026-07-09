@@ -165,8 +165,11 @@ Generate ✅ → Verify ✅ → Challenge ✅ → Decide ✅ → Learn ✅ → D
 
 ---
 
-## License
+# 加入群聊
 
-Apache 2.0 — 见 [LICENSE](./LICENSE)
+<div align="center">
+  <img src="https://qomob.ai/xskill.jpg" width="600" alt="XSkill">
+</div>
+
 
 Copyright 2026 Qomob.ai & XSkill.dev
