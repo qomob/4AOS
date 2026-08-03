@@ -165,11 +165,36 @@ Generate ✅ → Verify ✅ → Challenge ✅ → Decide ✅ → Learn ✅ → D
 
 ---
 
+## 版权与授权
+
+**作者**：Qomob.ai & XSkill.dev
+
+**版权声明**：本作品版权归 **Qomob.ai & XSkill.dev** 所有。
+
+### 第三方素材声明
+
+- **Python 依赖**：`PyYAML`（MIT License，Copyright (c) Kirill Simonov），按 MIT 许可条款使用，仅作为运行时依赖调用，未复制其源码入仓。其余脚本仅使用 Python 标准库（argparse / json / re / pathlib / typing 等）。
+- **视觉素材**：本 skill 为营销策略工作流引擎，不渲染视觉产物，未引用任何第三方 UI 组件库或调色板（如 Tailwind CSS / Bootstrap / Ant Design 等）。
+
+### 授权条款
+
+- ✅ **个人学习与评估**：可免费使用、阅读、研究本 skill
+- ✅ **内部非商业项目**：在署名 Qomob.ai & XSkill.dev 的前提下可使用
+- ❌ **商业用途**：必须事先获得 Qomob.ai & XSkill.dev 书面授权
+  - 包括但不限于：商业产品集成、付费 SaaS 服务、对外交付的项目、培训课程收费、Agency 商业比稿
+- ❌ **再分发**：不得去除或修改版权声明与作者信息
+
+如需商业授权，请联系 **Qomob.ai & XSkill.dev**。
+
+> 未经授权而将本 skill 用于商业用途的，视为侵权行为，Qomob.ai & XSkill.dev 保留追究法律责任的权利。
+
+---
+
+> ⚠️ **历史许可变更说明**：本 skill 此前以 Apache License 2.0 发布，自 v4.4.4 起转为商业授权模式。已删除原 LICENSE 文件。在许可变更前已合法获取 Apache 2.0 副本的使用者，其在该许可下的权利不因本次变更而溯及性失效，但后续版本更新不再以 Apache 2.0 发布。
+
+
 # 加入群聊
 
 <div align="center">
   <img src="https://qomob.ai/xskill.jpg" width="600" alt="XSkill">
 </div>
-
-
-Copyright 2026 Qomob.ai & XSkill.dev
