@@ -15,6 +15,14 @@
 
 ---
 
+## 🎬 演示视频
+
+<video src="4aos_promo_video.mp4" controls muted playsinline width="100%"></video>
+
+> 若浏览器未内嵌播放，[点此直接观看](4aos_promo_video.mp4)。
+
+---
+
 ## 诚实声明（先读这段）
 
 本项目的价值分层清晰，证据等级不同。我们拒绝用"结构全绿"冒充"质量已验证"。
