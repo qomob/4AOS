@@ -17,9 +17,12 @@
 
 ## 🎬 演示视频
 
-<video src="4aos_promo_video.mp4" controls muted playsinline width="100%"></video>
+[![4AOS 演示视频 · 44 秒](4aos_promo_video_poster.jpg)](4aos_promo_video.mp4)
 
-> 若浏览器未内嵌播放，[点此直接观看](4aos_promo_video.mp4)。
+▶ **[点击播放完整演示（44 秒，含音频）](4aos_promo_video.mp4)**
+
+> 说明：GitHub 仅对 `user-attachments` 附件 URL 渲染页内播放器，仓库文件无法内嵌自动播放。
+> 上图为海报帧，点击即用 GitHub 自带播放器观看。
 
 ---
 
